@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e02b8f6-11dc-4170-a3d6-72d231b31c78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/svg/freeCodeCampLogo.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
     </list>
@@ -156,7 +156,7 @@
       <updated>1570133962954</updated>
       <workItem from="1570133967088" duration="2643000" />
       <workItem from="1570158310472" duration="48000" />
-      <workItem from="1570158380019" duration="1819000" />
+      <workItem from="1570158380019" duration="2497000" />
     </task>
     <servers />
   </component>
